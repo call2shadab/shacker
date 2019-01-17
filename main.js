@@ -1,4 +1,4 @@
-var myGirl = [ 
+[ 
 	{
 		"name": "Tina",
 		"fav-color": "black",
@@ -14,5 +14,5 @@ var myGirl = [
 		"fav-color": "red",
 		"fav-food": "biryani"
 	}
-];
+]
 
