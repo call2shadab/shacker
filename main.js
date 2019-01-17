@@ -8,11 +8,11 @@ var myGirl = [
 		"name": "Subhadra",
 		"fav-color": "blue",
 		"fav-food": "pizza"
-	}
+	},
 	{
 		"name": "Sangeeta",
 		"fav-color": "red",
 		"fav-food": "biryani"
 	}
-]
+];
 
