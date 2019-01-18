@@ -1,18 +1,18 @@
 [ 
 	{
 		"name": "Tina",
-		"fav-color": "black",
-		"fav-food": "burger"
+		"fav_color": "black",
+		"fav_food": "burger"
 	},
 	{
 		"name": "Subhadra",
-		"fav-color": "blue",
-		"fav-food": "pizza"
+		"fav_color": "blue",
+		"fav_food": "pizza"
 	},
 	{
 		"name": "Sangeeta",
-		"fav-color": "red",
-		"fav-food": "biryani"
+		"fav_color": "red",
+		"fav_food": "biryani"
 	}
 ]
 
